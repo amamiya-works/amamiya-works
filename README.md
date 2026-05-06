@@ -53,3 +53,18 @@
 
 - **Live Demo:** https://endless-quiz-portfolio.vercel.app
 - **Source Code:** https://github.com/amamiya-works/endless-quiz
+
+
+---
+
+### PACMAN (Parameter Safeguard)
+パラメータ変更作業の入力ミスをゼロにするための、業務用ブラウザツール。  
+1文字の誤入力が重大インシデントにつながる現場課題を、自作ツールで解決した。
+
+[![HTML](https://img.shields.io/badge/HTML-Single_File-E34F26?style=flat-square&logo=html5)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?style=flat-square&logo=javascript)]()
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?style=flat-square&logo=github)]()
+
+- **Live Demo (v13):** https://amamiya-works.github.io/PACMAN/pacman-v13.html
+- **Live Demo (v13-Lite):** https://amamiya-works.github.io/PACMAN/pacman-v13-lite.html
+- **Source Code:** https://github.com/amamiya-works/PACMAN
