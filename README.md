@@ -66,6 +66,7 @@
 
 - **Live Demo (v13):** https://amamiya-works.github.io/PACMAN/pacman-v13.html
 - **Live Demo (v13-Lite):** https://amamiya-works.github.io/PACMAN/pacman-v13-lite.html
+- **Live Demo (v13-Offline):** https://amamiya-works.github.io/PACMAN/pacman-v13-offline.html
 - **Source Code:** https://github.com/amamiya-works/PACMAN
 
 ---
